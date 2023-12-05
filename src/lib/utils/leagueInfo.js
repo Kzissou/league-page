@@ -22,7 +22,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
      {
-       "Double D.J.'s": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "Double D.J.'s": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "David": "Your Name",
       "bio": "God, fantasy, family",
        "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
