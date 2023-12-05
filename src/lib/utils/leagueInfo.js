@@ -8,7 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Welcome to the official website of the Ricky Williams Elite DYNASTY League of Super Buds, or colloquially, the RWEDLOSB.</p>
-  <p>I often worried that my conversations about the RWEDLOSB with my family, friends, co-workers and strangers on the bus left them yearnign for more information about the league. With the incpetion of the website they can keep up to date with latest RWEDLOSB news.</p>
+  <p>I often worried that my conversations about the RWEDLOSB with my family, friends, co-workers and strangers on the bus left them yearning for more information about the league. With the incepetion of the website they can keep up to date with latest RWEDLOSB news.</p>
 `;
 
 /*   STEP 3   */
